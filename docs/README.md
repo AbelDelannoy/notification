@@ -1,6 +1,6 @@
 #Sommaire
 
-* [Starter Kit] (guides/StarterKit.md)
-* [Intro] (guides/Introduction.md)
-* [React] (guides/React.md)
-* [Routes] (guides/Routes.md)
+* 1. [Starter Kit] (guides/StarterKit.md)
+* 2. [Intro] (guides/Introduction.md)
+* 3. [React] (guides/React.md)
+* 4. [Routes] (guides/Routes.md)
